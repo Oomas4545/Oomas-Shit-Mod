@@ -1,10 +1,11 @@
 {
-    "name": "Oomas' Piss Mod",
-    "version_number": "1.0.0",
+    "name": "Oomas' Shit Mod",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/Oomas4545/Oomas-Shit-Mod",
-    "description": "Shitty Text Mod I Made As A Joke",
+    "description": "This is a shit ass mod I made for my friends",
     "dependencies": [
         "bbepis-BepInExPack-2.0.0",
         "tristanmcpherson-R2API-2.0.10"
     ]
 }
+
